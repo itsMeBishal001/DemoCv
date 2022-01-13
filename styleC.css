@@ -1,0 +1,36 @@
+body{
+    
+    background-color:powderblue;
+    size: 7in 9.25in;
+    /*border: 20px  solid rgb(122, 55, 55);*/
+    margin: 27mm 16mm 27mm 16mm;
+    padding: 20px 120px;
+}
+
+    .skill{
+        background-color: rgb(109, 158, 130);
+        color: white;
+        border: 2px  solid black;
+        margin: 5px  5px 5px;
+        padding: 5px 0px; 
+       
+    }
+    
+.pic{
+    border-radius: 50%;
+}
+div{
+    display: flex;
+}
+table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  
